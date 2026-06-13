@@ -1,0 +1,4 @@
+
+ welcome to python 
+ I am writing conetnt in file to understand file system in python .
+ These content really helps us a lot :)
