@@ -1,0 +1,16 @@
+Student_ID,Gender,City,Study_Hours,Attendance,Marks,Passed
+101,Male,Pune,5,90,85,Yes
+102,Female,Mumbai,4,85,78,Yes
+103,Male,Nashik,6,95,92,Yes
+104,Female,Pune,,88,75,Yes
+105,Male,Mumbai,3,70,60,No
+106,Female,Nashik,7,98,96,Yes
+107,Male,Pune,2,65,55,No
+108,Female,Mumbai,5,,80,Yes
+109,Male,Nashik,4,82,72,Yes
+110,Female,Pune,3,75,68,No
+111,Male,Mumbai,8,99,98,Yes
+112,Female,Nashik,6,92,89,Yes
+113,Male,Pune,,80,70,Yes
+114,Female,Mumbai,2,60,50,No
+115,Male,Nashik,5,87,,Yes
